@@ -8,12 +8,12 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@nuxtjs/tailwindcss": "^6.2.0",
-    "nuxt": "3.0.0"
+    "@nuxtjs/tailwindcss": "^6.4.1",
+    "nuxt": "^3.2.3"
   },
   "dependencies": {
-    "@formkit/nuxt": "^1.0.0-beta.12",
-    "@formkit/themes": "^1.0.0-beta.12",
+    "@formkit/nuxt": "^1.0.0-beta.15",
+    "@formkit/themes": "^1.0.0-beta.15",
     "@tailwindcss/forms": "^0.5.3"
   }
 }
