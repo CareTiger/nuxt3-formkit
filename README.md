@@ -41,6 +41,8 @@ npm run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
-Formkit tailwind theming
-https://formkit.com/guides/create-a-tailwind-theme
-https://stackblitz.com/edit/nuxt-starter-51dncb?file=nuxt.config.ts
+## Formkit tailwind theming
+
+tailwind theme - https://formkit.com/guides/create-a-tailwind-theme
+multi step form - https://formkit.com/plugins/multi-step
+kitchen sink for theming inputs - https://stackblitz.com/edit/nuxt-starter-51dncb?file=nuxt.config.ts
